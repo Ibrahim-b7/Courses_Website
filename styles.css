@@ -1,0 +1,103 @@
+body {
+  /*antialiasing makes the font look better*/
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
+
+button {
+  font-family: "Lato", sans-serif;
+}
+
+.text-brand-teal {
+  color: #90cac7;
+}
+
+.text-brand-teal-darck {
+  color: #539d98;
+}
+
+.bg-brand-teal {
+  background: #539d98;
+}
+.bg-gray-900 {
+  background-color: #121826;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.p-20 {
+  padding: 20px;
+}
+
+.py-8 {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.px-16 {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.py-13 {
+  padding-top: 13px;
+  padding-bottom: 13px;
+}
+
+.px-33 {
+  padding-left: 33px;
+  padding-right: 33px;
+}
+
+.rounded-full {
+  border-radius: 100px;
+}
+
+.font-bold {
+  font-weight: bolder;
+}
+
+.text-size-14 {
+  font-size: 14px;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.index-10 {
+  z-index: 10;
+}
+
+.object-cover {
+  object-fit: cover;
+}
+
+.border-none {
+  border: none;
+}
+
+.ax-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
